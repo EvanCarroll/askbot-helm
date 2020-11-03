@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  askbot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-11-03T03:06:31.155624748-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 1ca53302a6de9942f29078055ecbd64823abf027800479bfa35bbb3ad9b773be
+    name: askbot
+    type: application
+    urls:
+    - askbot-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-11-03T03:06:31.155038429-06:00"
