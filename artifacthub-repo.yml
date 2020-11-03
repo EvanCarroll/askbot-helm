@@ -1,0 +1,6 @@
+# Artifact Hub repository metadata file
+repositoryID: askbot
+owners: # (optional, used to claim repository ownership)
+  - name: Evan Carroll
+    email: me@evancarroll.com
+
